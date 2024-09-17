@@ -1,0 +1,12 @@
+body{
+    cursor: none;
+}
+table thead th {
+    background-color: #61A3BA !important;
+    color: white !important;
+}
+
+.img {
+    width: 50px;
+    position: absolute;
+}
